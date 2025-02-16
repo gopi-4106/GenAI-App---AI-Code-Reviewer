@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as ai
 
 # Configure the Google Generative AI API
-ai.configure(api_key="AIzaSyAuPij3vtMkyLaH6RFVsqSg-lEugoKUPE4")  # Corrected the syntax for the API key
+ai.configure(api_key="AIzaSyCvFT6tTun41MkuGSau043SSAuuHzpJZyw")  # Corrected the syntax for the API key
 
 # System prompt for code review
 sys_prompt = """You are a helpful AI Code Reviewer. 
